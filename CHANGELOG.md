@@ -1,3 +1,7 @@
+## 2025-10-13
+
+- Feature: Added `/api/notion-to-markdown` endpoint for exporting Notion pages to Markdown format. Supports all block types including tables, lists, code blocks, and child pages.
+
 ## 2025-10-02
 
 - Fix: Quote blocks no longer display "Empty quote" labels in Notion. Simple quotes now render cleanly with content directly visible.
