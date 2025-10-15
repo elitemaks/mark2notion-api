@@ -1,6 +1,15 @@
 # Mark2Notion
 
-**Your Markdown → Notion, in seconds.** Mark2Notion is a simple API that converts Markdown into proper Notion blocks and can append them to your Notion pages—perfect for automation with tools like n8n, Zapier, or Make.
+**Your Markdown ↔ Notion, in seconds.** Mark2Notion is a simple API that converts between Markdown and Notion blocks—perfect for automation with tools like n8n, Zapier, or Make.
+
+---
+
+## Features
+
+- ✍️ **Convert Markdown to Notion blocks** - Transform any Markdown into Notion's block format
+- 📝 **Append to Notion pages** - Add Markdown content directly to your Notion pages
+- 📤 **Export Notion to Markdown** - Extract Notion pages as clean Markdown
+- 🔧 **Append pre-built blocks** - Insert already-converted Notion blocks efficiently
 
 ---
 
