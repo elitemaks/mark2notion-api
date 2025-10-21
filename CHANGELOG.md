@@ -1,3 +1,7 @@
+## 2025-10-21
+
+- Feature: Added text color support for both Markdown-to-Notion and Notion-to-Markdown conversions. Use HTML `<span style="color: colorname">text</span>` syntax in your Markdown to add colors. Supports 9 colors: red, blue, green, yellow, orange, purple, pink, gray, and brown. Colors work with all block types and can be combined with other formatting (bold, italic, etc.).
+
 ## 2025-10-15
 
 - Fix: Markdown with literal escaped newlines (`\n`, `\r\n`, `\r`) now properly splits into separate blocks. The API now accepts both actual newlines and escaped sequences.
