@@ -8,6 +8,7 @@
 
 - ✍️ **Convert Markdown to Notion blocks** - Transform any Markdown into Notion's block format
 - 📝 **Append to Notion pages** - Add Markdown content directly to your Notion pages
+- 🧹 **Clear page content** - Archive all blocks from a page for clean slate content replacement
 - 📤 **Export Notion to Markdown** - Extract Notion pages as clean Markdown
 - 🔧 **Append pre-built blocks** - Insert already-converted Notion blocks efficiently
 
